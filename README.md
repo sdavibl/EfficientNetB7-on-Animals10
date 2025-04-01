@@ -1,4 +1,4 @@
-# EfficientNetB7-on-Animals10 🐎
+# EfficientNetB7 on Animals-10 🐎
 
 ![image](https://github.com/user-attachments/assets/7c781b93-6af6-4934-a650-92244c88f95d)
 
